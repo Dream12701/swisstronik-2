@@ -1,6 +1,13 @@
 {
     "contract_address": "0x31d8CE7F49D6cDc64f223F03F7ae3adA5672b5c1",
     "network": "swisstronik",
-    "deployment_date": "2024-08-01"
+    "deployment_date": "2024-08-01",
+
+    
+    "Mint_tx": "0x6c56fe38e2b5f5168bdd76cb0948f25262f26df482b7c4aced06cbbb3016edb0",  
+    "Transfer_tx": "0xf306a38d37ff91e2520db5d31294e0f1a7f5b9de4f2aff2774ac5a95c55cb512"
+
   }
+  
+  
   
