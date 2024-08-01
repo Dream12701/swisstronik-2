@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# ERC20 DEPLOY, MINT, TRANFER
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+https://github.com/Dream12701/swisstronik-2/tree/main/Swiss2/script
 
-Try running some of the following tasks:
+https://github.com/Dream12701/swisstronik-2/blob/main/Swiss2/deployed_contract.json
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+THANK YOU
